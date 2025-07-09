@@ -1,0 +1,6 @@
+
+output/frames/
+*.jpg
+*.png
+model/yolo.pt
+videos/15sec_input_720p.mp4
